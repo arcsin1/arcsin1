@@ -5,8 +5,4 @@
 
 - 🌱 I’m currently learning **Data visualization**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arcsin1](https://github.com/arcsin1)
-
-- 📝 I regulary write articles on [https://arcsin1.github.io](https://arcsin1.github.io)
-
-- 📫 How to reach me **13896226203@163.com**
+- 📫 How to reach me **zy19931129@gmail.com**
